@@ -7,6 +7,7 @@ A general-purpose **VLA Model** designed to unify **vision, language, and action
 > 📜 [[technical report](https://arxiv.org/abs/2506.19850)] 🤗 [[model weights](https://huggingface.co/Yuqi1997/UniVLA)] 🤖 [[project page](https://robertwyq.github.io/univla.github.io)]
 
 ## 🚀 News
+- **2025.10.15**: DriveVLA-W0, extended the UniVLA framework to autonomous driving, [code](https://github.com/BraveGroup/DriveVLA-W0) released.
 - **2025.6.27**: code released for robotic simulations.
 - **2025.6.25**: paper released on the arXiv.
 
@@ -21,7 +22,7 @@ A general-purpose **VLA Model** designed to unify **vision, language, and action
 - [x] Support for evaluation.
 - [x] World model pretraining for video generation.
 - [x] Example for real-robot ALOHA.
-- [ ] Support for autonomous driving.
+- [x] Support for autonomous driving.
 - [ ] Support for general grounding.
 
 ## 📚 Experiments
